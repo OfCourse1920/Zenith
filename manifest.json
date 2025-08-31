@@ -1,0 +1,21 @@
+{
+  "short_name": "Zenith",
+  "name": "Zenith - Student Productivity Hub",
+  "description": "An all-in-one productivity application designed for students, featuring a Kanban board, Pomodoro timer, habit tracker, and an AI-powered study assistant to help you stay organized, focused, and achieve your academic goals.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6366f1",
+  "background_color": "#111827"
+}
